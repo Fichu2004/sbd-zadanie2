@@ -10,3 +10,4 @@ Pamiętaj żeby na koniec wysłać wszystkie swoje zmiany na GitHub.
 ![Tux, the Linux mascot](kartkowka.png)
 
 **Na ocenę 2 należy wykonać cały punkt 1 i podjąć próbę wykonania punktu 2 (próba oznacza wykonanie przynajmniej w 20% jednego z punktów 2.i, 2.ii lub 2.iii)**
+[zbs.sql.txt](https://github.com/Fichu2004/sbd-zadanie2/files/9765051/zbs.sql.txt)
